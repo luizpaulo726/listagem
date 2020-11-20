@@ -22,8 +22,8 @@ Crie um esquema no banco mysql , chamado laravel_listagem
 # Migrates
 Digite php artisan migrate --seed
 
-# Servidor
-Digite php artisan migrate
+# Seed
+Digite php artisan db:seed
 
 # Acesse
 http://127.0.0.1:8000 ou http://localhost:8000
