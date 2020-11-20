@@ -4,7 +4,7 @@ Primeiro, clone o projeto:
 # clone
 git clone https://github.com/luizpaulo726/listagem.git
 
-# Configugrações
+# Configurações
 Acesse a pasta do projeto clonado pelo terminal(prompt de comando)
 
 # instalação
